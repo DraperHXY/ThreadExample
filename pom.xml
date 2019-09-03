@@ -11,8 +11,6 @@
     <modules>
         <module>SimpleWaitNotify</module>
         <module>FlagWaitNotify</module>
-        <module>EarlyNotify</module>
-        <module>LimitWaitNotifya</module>
         <module>ConditionABC</module>
     </modules>
 
