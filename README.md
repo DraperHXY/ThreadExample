@@ -10,7 +10,7 @@ SimpleWaitNotify
 ---
 FlagWaitNotify
 
-bug 待修复
+其实跟 SimpleWaitNotify 差不多
 
 ---
 LimitWaitNotify
