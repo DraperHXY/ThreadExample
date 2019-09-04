@@ -12,6 +12,7 @@
         <module>SimpleWaitNotify</module>
         <module>FlagWaitNotify</module>
         <module>ConditionABC</module>
+        <module>OfficialAQS</module>
     </modules>
 
 

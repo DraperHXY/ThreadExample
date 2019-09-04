@@ -23,5 +23,6 @@ ConditionABC
 使用 Condition 来实现生产者和消费者，以及顺序打印 abc
 
 ---
+OfficialAQS
 
-待续...
+使用官方的 Demo 实现 AQS 
